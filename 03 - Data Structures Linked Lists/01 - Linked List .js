@@ -1,0 +1,1 @@
+///linked list are all over the place and arrays are contiguous
