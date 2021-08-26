@@ -92,7 +92,7 @@ class DoublyLinkedList{
 }
 
 
-let myDoublyLinkedList = new DoublyLinkedList(7)
+let myDoublyLinkedList = new DoublyLinkedList(1)
 
 myDoublyLinkedList.push(2)
 myDoublyLinkedList.push(3)
